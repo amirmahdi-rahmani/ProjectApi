@@ -30,3 +30,4 @@ D:\AmirMahdi\Project collage\amirMahdiRahmani\api\WebApi\WebApi\obj\Debug\net8.0
 D:\AmirMahdi\Project collage\amirMahdiRahmani\api\WebApi\WebApi\obj\Debug\net8.0\WebApi.pdb
 D:\AmirMahdi\Project collage\amirMahdiRahmani\api\WebApi\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 D:\AmirMahdi\Project collage\amirMahdiRahmani\api\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\AmirMahdi\Project collage\amirMahdiRahmani\api\WebApi\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
