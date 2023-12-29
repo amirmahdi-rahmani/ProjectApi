@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AmirMahdi\\Project collage\\amirMahdiRahmani\\api\\WebApi\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\AmirMahdi\\Project collage\\amirMahdiRahmani\\ProjectApi\\WebApi\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\AmirMahdi\\Project collage\\amirMahdiRahmani\\api\\WebApi\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\AmirMahdi\\Project collage\\amirMahdiRahmani\\ProjectApi\\WebApi\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\behnam\\.nuget\\packages\\",
-      "outputPath": "D:\\AmirMahdi\\Project collage\\amirMahdiRahmani\\api\\WebApi\\WebApi\\obj\\",
+      "outputPath": "D:\\AmirMahdi\\Project collage\\amirMahdiRahmani\\ProjectApi\\WebApi\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\behnam\\AppData\\Roaming\\NuGet\\NuGet.Config",

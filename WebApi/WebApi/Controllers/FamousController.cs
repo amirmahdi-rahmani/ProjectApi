@@ -13,6 +13,7 @@ namespace WebApi.Controllers
     
     public class FamousController: ControllerBase
     {
+       
         private List<item> famous = new List<item>()
     {
         new item {
@@ -74,7 +75,11 @@ namespace WebApi.Controllers
         [HttpGet]
         public object GetFamous()
         {
-            return famous;
+            return new
+            {
+                title= "مشاهیر آذربایجان شرقی",
+                items=famous
+            };
         }
 
     }

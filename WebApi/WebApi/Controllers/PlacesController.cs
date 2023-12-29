@@ -66,7 +66,11 @@ namespace WebApi.Controllers
         [HttpGet]
         public object GetPlaces()
         {
-            return places;
+            return new
+            {
+                title= "جاذبه های گردشگری آذربایجان شرقی",
+                items=places
+            };
         }
 
     }

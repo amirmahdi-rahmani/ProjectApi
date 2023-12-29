@@ -69,7 +69,11 @@ namespace WebApi.Controllers
         [HttpGet]
         public object GetFoods()
         {
-            return foods;
+            return new
+            {
+                title= "معروف ترین غذا های استان آذربایجان شرقی",
+                items=foods
+            };
 
 
 
